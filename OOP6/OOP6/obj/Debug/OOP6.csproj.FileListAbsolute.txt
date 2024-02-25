@@ -1,7 +1,0 @@
-C:\Users\Иван PC\source\repos\OOP6\OOP6\bin\Debug\OOP6.exe.config
-C:\Users\Иван PC\source\repos\OOP6\OOP6\bin\Debug\OOP6.exe
-C:\Users\Иван PC\source\repos\OOP6\OOP6\bin\Debug\OOP6.pdb
-C:\Users\Иван PC\source\repos\OOP6\OOP6\obj\Debug\OOP6.csproj.AssemblyReference.cache
-C:\Users\Иван PC\source\repos\OOP6\OOP6\obj\Debug\OOP6.csproj.CoreCompileInputs.cache
-C:\Users\Иван PC\source\repos\OOP6\OOP6\obj\Debug\OOP6.exe
-C:\Users\Иван PC\source\repos\OOP6\OOP6\obj\Debug\OOP6.pdb
